@@ -2,11 +2,15 @@
 
 ![](header.jpg)
 
-**Colby College  -  Spring 2025  -  Section B  -  Syllabus**
+**Colby College  -  Spring 2026  -  Syllabus** (Sections A and B)
+
+
+> [!WARNING]
+> This is a DRAFT. More details coming soon
 
 #### Meeting times
 
-Mondays, Wednesdays and Fridays 10-10:50 am, [Olin 001](https://map.colby.edu/)
+Mondays, Wednesdays and Fridays, 9-9:50 AM (Section A), 10-10:50 AM (Section B), [Olin 001](https://map.colby.edu/)
 
 #### Instructor
 
@@ -14,34 +18,11 @@ Mondays, Wednesdays and Fridays 10-10:50 am, [Olin 001](https://map.colby.edu/)
 
 e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
-Office hours: Wednesdays 12:30 - 1:30 pm, Thursdays 10:30 - 11:30 am, or by appointment
+Office hours: Mondays 3:00 - 4:00 pm, Fridays 11:00 am - 12:00 pm, or by appointment
 
-#### Learning Assistants
 
-- Hannah Junn
-- Jackie Ortiz
-- Gemma Chatham
 
-<details closed>
-  <summary><b>LA Drop-In Sessions (DRIPS)</b></summary>
-  <ul> 
-    <li>Mondays 6-7pm, outside Olin 019B
-    <li>Wednesdays 6-7pm, 1st floor Miller tall tables
-    <li>Thursdays 7-8pm, outside Olin 019B
-  </ul>
-</details>
-
-<details closed>
-  <summary><b>LA Plus Sessions (LAPS)</b></summary>
-  <ul>
-    <li>Wednesdays 7-8pm, Olin 019B
-    <li> Sundays 7-8pm, location TBD
-    <li> Mondays 7-8pm , location TBD
-  </ul>
-  <i>Attending LAPS any two weeks before Exam1 is worth 10 points</i>
-</details>
-
-### Course Description
+####Course Description
 
 Biological diversity supports the existence of life itself. It is also a source of genuine wonder. In this course, we will introduce the study of biological diversity at multiple scales. We will examine how patterns of inheritance arise from its molecular and cellular nature. You will learn why and how evolution occurs in populations and across eons of time to generate the amazing diversity of life. We will explore this diversity in major lineages of organisms. What you learn in this course will be foundational for further the study of biology and related subjects. 
 
@@ -80,14 +61,8 @@ The lab will give you hands-on experience exploring the principles of biology di
 
 Your final grade for BI164 will be based on the lecture and laboratory sections of the course. The specifics of your laboratory grade, and a lab syllabus, will be provided by your lab instructor.
 
-| course component                    | points |
-| :---------------------------------- | :----: |
-| Lab  |  300  |
-| In-class activities and class participation |  130   |
-| Quizzes (9)        |  90  |
-| Midterm exams (3, each worth 120 pts) |  360  |
-| Cumulative final exam              |  120  |
-| **total**                          | 1,000  |
+> [!WARNING]
+> This is a DRAFT. More details coming soon
 
 Students must earn a passing grade (>60%) in their lab section in order to pass the course.
 
@@ -106,12 +81,12 @@ No individual extra credit assignments will be offered.
 ### Exams
 There will be three midterm exams during the semester, and one comprehensive (cumulative) final exam covering the whole semester. Midterm exams will be closed-book, closed-note, individual-effort exams given in our regular class time on the dates below.
 
-| exam       | date            |
-| :--------- | :-------------- |
-| Midterm 1  | Monday, March 3 |
-| Midterm 2  | Monday, April 7 |
-| Midterm 3  | Monday, May 5   |
-| Final Exam | TBA             |
+| exam       | date |
+| :--------- | :--- |
+| Midterm 1  | TBD  |
+| Midterm 2  | TBD  |
+| Midterm 3  | TBD  |
+| Final Exam | TBA  |
 
 Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 24 hours of the scheduled exam.
 
@@ -161,60 +136,5 @@ If you test positive for SARS-CoV-2 or experience [symptoms of covid-19](https:/
 
 ### Course Schedule
 
-|  week  | date        | topic                               | reading (Freeman)      |
-| :----: | ----------- | ----------------------------------- | ---------------------- |
-|   1    | February 5  | Introductions                       | 1.3,6                  |
-|        | February 7  | Overview of Evolutionary Biology    | 1.4-5; 22.1            |
-|        |             | Review of Mitosis                   | 12.0-2,4               |
-|   2    | February 10 | Alternation of Generations          | 27.3                   |
-|        |             | Meiosis                             | 13.0-2                 |
-|        |             | Nondisjunction                      | 13.3                   |
-|        | February 12 | Alleic segregation                  | 14.4                   |
-|        |             | Transmission genetics               | 14.0-2                 |
-|        | February 14 | Independent assortment              | 14.3                   |
-|   3    | February 17 | Alleles and their interactions      | 14.5                   |
-|        | February 19 | Allele interactions with sex        | 14.5-6                 |
-|        | February 21 | Problem solving in genetics         |                        |
-|   4    | February 24 | Epigenetics                         | 19.2                   |
-|        |             | Non-genetic inheritance             |                        |
-|        | February 26 | Life cycles in diverse eukaryotes   | 27.3; 28.3; 29.3, 30.3 |
-|        | February 28 | time to catch up                    |                        |
-|   5    | March 3     | **Exam 1**                          |                        |
-|        | March 5     | The Hardy-Weinberg Model            | 23.0-1                 |
-|        | March 7     | Non-random mating                   | 23.2                   |
-|   6    | March 10    | Mutation                            | 23.6                   |
-|        | March 12    | Genetic drift                       | 23.4                   |
-|        |             | Gene flow                           | 23.5                   |
-|        | March 14    | Wright's fixation index (Fst)       |                        |
-|   7    | March 17    | Artificial selection                | 22.3                   |
-|        | March 19    | Quantitative traits                 | 14.5                   |
-|        | March 21    | Natural selection                   | 23.3                   |
-|   8    | March 31    | Misconceptions about evolution      | 22.5                   |
-|        | April 2     | Sexual selection                    | 23.3                   |
-|        | April 4     | time to catch up                    |                        |
-|   9    | April 7     | **Exam 2**                          |                        |
-|        | April 9     | Tree thinking                       |                        |
-|        | April 11    | Homology; Convergence               | 22.2                   |
-|        |             | Biogeography & Deep Time            | 22.2                   |
-|   10   | April 14    | Phylogenetics                       | 25.0-1                 |
-|        |             | Species concepts                    | 24.0-1                 |
-|        | April 16    | Allopatric speciation               | 24.2                   |
-|        |             | Sympatric speciation                | 24.3                   |
-|        | April 18    | Secondary contact                   | 24.4                   |
-|   11   | April 21    | Adaptive radiations                 | 25.3                   |
-|        |             | Evolution(s) of multicellularity    |                        |
-|        |             | Origins of Eukaryotes               | 27.0-1,3               |
-|        |             | Symbiosis                           |                        |
-|        | April 23    | Intro to Animals                    | 30.1-2                 |
-|        |             | The Cambrian Explosion              | 25.3                   |
-|        |             | Animal development                  | 25.3; 21.2             |
-|        | April 25    | Protostome body plans               | 31.0-3                 |
-|        |             | Deutrostome body plans              | 32.0-4                 |
-|   12   | April 28    | Biodiversity indices                | 52.2                   |
-|        | April 30    | Amniotes, Synapsids & Dinosaurs     |                        |
-|        |             | Mass extinctions                    | 25.4                   |
-|   13   | May 5       | **Exam 3**                          |                        |
-|        | May 7       | Community ecology                   | 52.1                   |
-|        | May 9       | Global patterns of biodiversity     | 52.4                   |
-| Finals | May 14      | **Cumulative final exam** (6:00 PM) |                        |
+TBD
 
