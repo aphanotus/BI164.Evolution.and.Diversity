@@ -1,20 +1,33 @@
 # BI164 Reading Guides 
 
-*These guides are customized for Dr. Angelini’s 2025 Section B.* 
-
 > [!NOTE]
 > **Table of Contents**<br>
 > [What is a Reading Guide?](#What-is-a-Reading-Guide)<br>
+> **Material for Exam 1**<br>
+> [Chapter 1](#Chapter-1): Intro & Overview<br>
+> [Chapter 22 (Part 1)](#Chapter-22-Part-1): Evolution by Natural Selection<br>
+> [Chapter 12](#Chapter-12): Mitosis<br>
+> [Chapter 27](#Chapter-27): Alternation of generation<br>
+> [Chapter 13](#Chapter-13): Meiosis<br>
+> [Chapter 14](#Chapter-14): Transmission Genetics<br>
+> **Material for Exam 2**<br>
+> [Chapter 19](#Chapter-19): Control of Gene Expression in Eukaryotes<br>
+> [Chapter 23 (Part 1)](#Chapter-23-Part-1): The Hardy-Weinberg Model<br>
+> [Chapter 23 (Part 2)](#Chapter-23-Part-2): Evolutionary Processes<br>
+> [Chapter 23 (Part 3)](#Chapter-23-Part-3): More Evolutionary Processes<br>
+> [Chapter 22 (Part 2)](#Chapter-22-Part-2): Evolution by Natural Selection<br>
+> [Chapter 14](#Chapter-14): Quantitative Traits<br>
+> [Chapter 22 (Part 3)](#Chapter-22-Part-3): Misconceptions About Evolution<br>
+> [Chapter 23 (Part 4)](#Chapter-23-Part-4): Sexual Selection<br>
 > **Material for Exam 3**<br>
 > [Chapter 22 (Part 4)](#Chapter-22-Part-4): Macroevolution<br>
-> [Chapter 23 (Part 4)](#Chapter-23-Part-4): Sexual Selection<br>
 > [Chapter 24](#Chapter-24): Speciation<br>
 > [Chapter 25](#Chapter-25): Phylogenies<br>
 > [Chapter 30](#Chapter-30): Animals<br>
 > [Chapter 21](#Chapter-21): Animal Development<br>
+> [Chapter 52](#Chapter-52-Part-1): Biodiversity<br>
 > **Material after Exam 3**<br>
-> [Chapter 52](#Chapter-52): Biodiversity<br>
-
+> [Chapter 52](#Chapter-52-Part-2): Biodiversity<br>
 
 ---
 
@@ -501,10 +514,10 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 ### Chapter 23 (Part 1)
 
-**Evolutionary Processes**
+**The Hardy-Weinberg Model**
 
 > [!TIP]
-> Chapter 23 is important and we'll cover it slowly.  Part 1 covers the Hardy-Weinberg model and nonrandom mating.
+> Chapter 23 is important and we'll cover it slowly.  Part 1 covers the Hardy-Weinberg model.
 
 
 #### Reading
@@ -525,9 +538,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Hardy-Weinberg equilibrium
   <li>Random mating
   <li>Nonrandom mating
-  <li>Inbreeding
   <li>Genotype frequency
-  <li>Deleterious allele
   </ul>
 </details>
 
@@ -536,7 +547,6 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 - Unnumbered Figure on page 470 for review of terms (to review the terms allele, genotype, phenotype) 
 - Figures 23.2 and 23.3 (to understand how the Hardy-Weinberg equation is derived)
-- Figure 23.4 (to understand how inbreeding decreases heterozygosity)
 - Optional: Review BioSkills 4 "Working with Probabilities" (p 29)
 - Optional: Review Quantitative Methods 23.1 if you need more support understanding or practicing using the Hardy-Weinberg Principle
 
@@ -547,7 +557,6 @@ Practice problem answers are at the back of the book. If you cannot complete the
 - Know the assumptions of the Hardy-Weinberg model
 - Given the observed genotype frequencies in a population, calculate the allele frequencies using the Hardy-Weinberg model
 - Given the frequencies of two alleles in a population, calculate the predicted offspring genotype frequencies using the Hardy-Weinberg model
-- Explain the effect of nonrandom mating on genotype and/or allele frequencies
 
 
 #### Relevant practice problems
@@ -563,7 +572,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 **Evolutionary Processes**
 
 > [!TIP]
-> Part 2 covers genetic drift and mutation.
+> Part 2 covers genetic drift, inbreeding and mutation.
 
 #### Reading
 
@@ -580,7 +589,9 @@ Practice problem answers are at the back of the book. If you cannot complete the
   <li>Genetic Bottleneck
   <li>Mutation
   <li>Point mutation
+  <li>Inbreeding
   <li>Deleterious mutation
+  <li>Deleterious allele
   </ul>
 </details>
 
@@ -589,6 +600,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 - Figure 23.13 (as an example of genetic drift)
 - Figure 23.14 (to understand the founder effect)
 - Figure 23.15 (to understand the effect of a genetic bottleneck)
+- Figure 23.4 (to understand how inbreeding decreases heterozygosity)
 
 
 #### At the end of this reading you should be able to
@@ -596,6 +608,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 - Remember the above vocabulary
 - Recognize the effect of genetic drift on allele frequencies
 - Recognize the relationship between population size and genetic drift
+- Explain the effect of nonrandom mating on genotype and/or allele frequencies
 - Recognize how genetic drift will affect allele frequencies across multiple populations, leading to population structure (*F<sub>ST</sub>*)
 - Recognize mutation as the fundamental source of genetic variation
 
@@ -609,7 +622,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 ### Chapter 23 (Part 3)
 
-**Evolutionary Processes**
+**More Evolutionary Processes**
 
 > [!TIP]
 > Part 3 covers gene flow and selection.
@@ -1118,7 +1131,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 
 
 
-### Chapter 52
+### Chapter 52 (Part 1)
 
 **Biodiversity**
 
@@ -1129,7 +1142,6 @@ Practice problem answers are at the back of the book. If you cannot complete the
 #### Reading
 
 - 52.2 (page 1128, "How Many Species Occur in Communities?")
-- 52.4
 
 #### Define the following vocabulary terms
 
@@ -1149,13 +1161,42 @@ Practice problem answers are at the back of the book. If you cannot complete the
 #### At the end of this reading you should be able to
 
 - Understand difference between qualitative biodiversity metrics (like species richness) and quantitative biodiversity metrics that incorporate evenness of species
-- Explain how abiotic aspects of geography influence global patterns of biodiversity
 
 #### Relevant practice problems
 
 - **Blue ✓** questions  on page 1138
 - End of Chapter questions: 6
 
+## Material after Exam 3
+
+### Chapter 52 (Part 2)
+
+**Biodiversity at community and global scales**
+
+#### Reading
+
+- 52.1
+- 52.4
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+    <li>TBD
+  </ul>
+</details>
+#### Closely review the following tables/figures
+
+- TBD
+
+#### At the end of this reading you should be able to
+
+- Explain how abiotic aspects of geography influence global patterns of biodiversity
+
+#### Relevant practice problems
+
+- TBD
 
 
 ---
