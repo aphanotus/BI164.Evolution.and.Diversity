@@ -109,12 +109,12 @@ No individual extra credit assignments will be offered.
 ### Exams
 There will be three midterm exams during the semester, and one comprehensive (cumulative) final exam covering the whole semester. Midterm exams will be closed-book, closed-note, individual-effort exams given in our regular class time on the dates below.
 
-| exam       | date            |
-| :--------- | :-------------- |
-| Midterm 1  | Monday, March 2 |
-| Midterm 2  | Monday, April 6 |
-| Midterm 3  | Monday, May 4   |
-| Final Exam | TBA             |
+| exam       | date               |
+| :--------- | :----------------- |
+| Midterm 1  | Monday, March 2    |
+| Midterm 2  | Wednesday, April 8 |
+| Midterm 3  | Monday, May 4      |
+| Final Exam | TBA                |
 
 Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 24 hours of the scheduled exam.
 
