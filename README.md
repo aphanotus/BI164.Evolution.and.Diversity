@@ -4,10 +4,6 @@
 
 **Colby College  -  Spring 2026  -  Syllabus** (Sections A and B)
 
-> [!WARNING]
-> This is a DRAFT. More details coming soon
-
-
 
 #### Meeting times
 
@@ -21,11 +17,9 @@ e-mail: [dave.angelini@colby.edu](mailto:dave.angelini@colby.edu)
 
 Office hours: Mondays 3:00 - 4:00 pm, Fridays 11:00 am - 12:00 pm, or by appointment
 
-
-
 #### Learning Assistants
 
-- TBD
+- TBA
 
 <details closed>
   <summary><b>LA Drop-In Sessions (DRIPS)</b></summary>
@@ -73,6 +67,13 @@ Class rosters are provided to each instructor with each student's legal name. I 
 Be aware that classes cannot be missed for an athletic practice. However, if your request is made in advance, I typically allow absences for athletic competition. 
 
 Your involvement with in-class assignments will be assessed weekly, and cannot be made-up if you are absent. If you are aware in advance that you must miss class for exceptional circumstances, please discuss this with me in advance. Isolated, occasional absences are tolerable; frequent absences will negatively affect your participation grade. Attending a different section of BI164 is not an acceptable way to make up for a missed class. (The other sections may be discussing a completely different topic on any day.) Poor attendance will also result in an academic warning.
+
+### Learning Assistants
+
+This course is in partnership with the [Center for Teaching and Learning’s Learning Assistant Program](https://www.colby.edu/center-for-teaching-and-learning/programs/learning-assistants-program/). As part of this program, our class includes Learning Assistants: trained student partners who work with instructors and students both in and out of class to construct active, inclusive learning experiences. In the classroom, LAs guide student learning through the facilitation of active learning. Outside of class, LAs offer two types of sessions to support student learning:
+
+-  **Learning Assistant Plus Sessions (LAPS)**: Structured support sessions held regularly throughout the semester. Students can expect to engage in group learning activities, discussion, problem solving, or other structured experiences designed to help students with both the learning process and their understanding of a topic. All students in the course are encouraged to attend LA Plus Sessions regularly, as they are designed to benefit students at all levels of understanding.
+- **Learning Assistant Drop-In Sessions**: Students shape Drop-In Sessions by bringing their questions and ideas to discuss with the LAs. Drop-In Sessions give students the opportunity to work with LAs individually or in small groups. LAs can also help students bring their questions to the course instructor.
 
 ### Laboratory
 
