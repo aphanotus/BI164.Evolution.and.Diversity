@@ -1,3 +1,24 @@
+---
+mainfont: Calibri
+fontsize: 12pt
+geometry: margin=0.65in
+output:
+  pdf_document:
+    latex_engine: xelatex
+    template: template.tex
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \usepackage{hyperref}
+  - \usepackage{enumitem}
+  - \usepackage{graphicx}
+  - \definecolor{BlueJay}{rgb}{0.17 0.33, 0.5}
+  - \hypersetup{colorlinks=true, urlcolor=BlueJay, linkcolor=BlueJay, citecolor=BlueJay}
+---
+
+`\thispagestyle{empty}`{=latex}
+
+
 # BI164 Evolution & Diversity
 
 ![](header.jpg)
@@ -19,7 +40,10 @@ Office hours: Mondays 3:00 - 4:00 pm, Fridays 11:00 am - 12:00 pm, or by appoint
 
 #### Learning Assistants
 
-- TBA
+- Daniel Amoah
+- Defne Cingir
+- Gemma Chapman
+- Jeremy Goldrick
 
 <details closed>
   <summary><b>LA Drop-In Sessions (DRIPS)</b></summary>
