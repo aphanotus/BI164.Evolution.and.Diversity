@@ -1,24 +1,3 @@
----
-mainfont: Calibri
-fontsize: 12pt
-geometry: margin=0.65in
-output:
-  pdf_document:
-    latex_engine: xelatex
-    template: template.tex
-header-includes:
-  - \usepackage{fancyhdr}
-  - \pagestyle{fancy}
-  - \usepackage{hyperref}
-  - \usepackage{enumitem}
-  - \usepackage{graphicx}
-  - \definecolor{BlueJay}{rgb}{0.17 0.33, 0.5}
-  - \hypersetup{colorlinks=true, urlcolor=BlueJay, linkcolor=BlueJay, citecolor=BlueJay}
----
-
-`\thispagestyle{empty}`{=latex}
-
-
 # BI164 Evolution & Diversity
 
 ![](header.jpg)
@@ -141,7 +120,7 @@ There will be three midterm exams during the semester, and one comprehensive (cu
 | Midterm 3  | Monday, May 4      |
 | Final Exam | TBA                |
 
-Students with accommodations for extra time will need to contact the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center) to schedule an individually proctored time within 24 hours of the scheduled exam.
+Students with **accommodations for extra time** will need to share their availability with me to arrange proctoring at the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center). This will typically be a time within 48 hours of the scheduled exam. Please be aware that the ATC is open for proctoring Mondays through Fridays from 8:15 AM to 5:00 PM.
 
 Colby College supports the religious practices of students. Please notify me if any religious obligations will conflict with attendance, exams or other assignments at least 14 days in advance of the date in conflict.
 
@@ -224,8 +203,8 @@ If you experience symptoms of a contagious respiratory illness, such as [covid-1
 |   8    | March 30    | Quantitative traits                         | 14.5                    |
 |        | April 1     | Misconceptions about evolution              | 22.5                    |
 |        | April 3     | Sexual selection                            | 23.3                    |
-|   9    | April 6     | **Midterm Exam 2**                          |                         |
-|        | April 8     | Tree thinking                               | 27.4                    |
+|   9    | April 6     | Tree thinking                               | 27.4                    |
+|        | April 8     | **Midterm Exam 2**                          |                         |
 |        | April 10    | Homology; Convergence                       | 22.2                    |
 |   10   | April 13    | Biogeography & Deep Time                    | 22.2                    |
 |        | April 15    | Species concepts                            | 24.0-1                  |
