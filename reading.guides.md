@@ -43,7 +43,7 @@ The best ways to succeed in BI164:
 
 This document will help guide your reading of the textbook, *Biological Science* by Freeman, et al., 7th Ed. (Thanks to Dr. Allison Barner for providing the model for these guides and for sharing guides for chapters 12 and 13.)
 
-Because we do not cover all of the material in a given chapter in lecture, this guide points out the sections of the textbook that are relevant to each lecture topic. Navigate to this week's topic using the sidebar table of contents (click on the left of the doc to expand the menu)
+Because we do not cover all of the material in a given chapter in lecture, this guide points out the sections of the textbook that are relevant to each lecture topic. Navigate to this week's topic using the table of contents at the top of the page.
 
 The guide tells you:
 
@@ -57,9 +57,9 @@ The guide tells you:
 > [!TIP]
 > Look for notes from Dr. Angelini indented in this style.
 
-Each week, you should read the assigned textbook sections and take notes. “Taking notes” means writing notes by hand, annotating the text with your own comments, or typing up a structured notes document. Importantly, copying and pasting text from the textbook into a notes document has been shown to have no benefit for your learning or exam scores! Similarly, simply highlighting the textbook has limited impact.
+Each week, you should read the assigned textbook sections and take notes. “Taking notes” means writing notes by hand, annotating the text with your own comments, or typing up a structured notes document. Importantly, copying and pasting text from the textbook into a notes document has been shown to have no benefit for your learning! Similarly, simply highlighting the textbook has limited impact. It's the act of writing things out that help you remember.
 
-Remember, reading notes should be *in addition* to notes you take during class. 
+Reading your notes should be *in addition* to notes you take during class. Recalling the information in this way reinforces your ability to remember it.
 
 ##### Define the following vocabulary terms
 
@@ -69,14 +69,14 @@ Vocab sections below will initially be collapsed. You will need to click on the 
 
 ##### Closely review the following tables / figures
 
-The figures and tables listed here are important and should not be overlooked. Don't forget to read the captions! Try redrawing figures in your notes and annotating them with notes and questions
+The figures and tables listed here are important and should not be overlooked. Don't forget to read the captions! Try redrawing figures in your notes and annotating them with notes and questions.
 
 ##### At the end of this reading you should be able to
 
-Take a few minutes to test yourself against these reading goals and practice problems!
+Take a few minutes to test yourself against these reading goals and practice problems.
 ##### Relevant practice problems
 
-Practice problem answers are at the back of the book. If you cannot complete these goals or answer the practice questions, make a note about where you want to follow up by asking a question in lecture, coming to office hours, asking a peer, coming to LA hours, and/or reviewing your notes from class and from the reading.
+Practice problem answers are at the back of the textbook. If you cannot complete these goals or answer the practice questions, make a note about where you want to follow up by asking a question in lecture, coming to office hours, asking a peer, coming to LA hours, and/or reviewing your notes from class and from the reading.
 
 
 
@@ -95,7 +95,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 #### Reading: 1.3-6
 
 > [!TIP]
-> Chapter 1 provides a high-level overview of Biology. Sections 3 and 6 review major concepts from BI163. When I write exam questions, I will not directly be looking to these sections for questions, instead I will assume you know these concepts! Therefore, this brief review is simply for your own benefit. Sections 4 and 5 introduce ideas about evolution and biodiversity that we will develop in this course. Again, I do not plan to write exam questions based on these sections because we will dive deeper into these topics later in the course.
+> Chapter 1 provides a high-level overview of Biology. Sections 3 and 6 review major concepts from BI163. When I write exam questions, I will not directly be looking to these sections for questions, instead I will assume you know these concepts! Therefore, this brief review is simply for your own benefit. Sections 4 and 5 introduce ideas about evolution and biodiversity that we will develop in this course. Again, I do not plan to write exam questions based on these sections explicitly, because we will dive deeper into these topics later in the course.
 
 #### Define the following vocabulary terms
 <details closed>
@@ -149,7 +149,7 @@ Practice problem answers are at the back of the book. If you cannot complete the
 - 22.1 *The Rise of Evolutionary Thought*
 
 > [!TIP]
-> This reading and our coverage of evolution in the first week is just an introduction to the topic. We’ll return to evolution later in the semester in more depth! Be aware that in addition to these points in the reading, you should know the historical influences on Darwin’s thinking (the ideas if not their authors by name) that I mentioned in class and the four elements of the theory of evolution by natural selection that were described by Darwin and Wallace.
+> This reading and our coverage of evolution in the first week is just an introduction to the topic. We’ll return to evolution later in the semester in more depth. Be aware that in addition to these points in the reading, you should know the historical influences on Darwin’s thinking (the ideas if not their authors by name) that I mentioned in class and the four elements of the theory of evolution by natural selection that were described by Darwin and Wallace.
 
 #### Define the following vocabulary terms
 
