@@ -30,14 +30,14 @@ Office hours: Mondays 3:00 - 4:00 pm, Fridays 11:00 am - 12:00 pm, or by appoint
     <li>TBD
   </ul>
 </details>
-
 <details closed>
   <summary><b>LA Plus Sessions (LAPS)</b></summary>
   <ul>
     <li>TBD
   </ul>
-  <i>Attending LAPS any two weeks before Exam1 is worth 10 points</i>
+  <i>Attending LAPS any two weeks before Exam1 is worth 5 points</i>
 </details>
+
 
 
 ### Course Description
