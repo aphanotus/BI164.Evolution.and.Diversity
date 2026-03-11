@@ -1,6 +1,6 @@
 # BI164 Evolution & Diversity
 
-![](header.jpg)
+![](images/header.jpg)
 
 **Colby College  -  Spring 2026  -  Syllabus** (Sections A and B)
 
@@ -55,7 +55,7 @@ Biological diversity supports the existence of life itself. It is also a source 
 
 *Biological Science*, Scott Freeman, et al., 7th edition. 
 
-![](textbookcover.jpeg)
+![](images/textbookcover.jpeg)
 
 I encourage you to purchase <a href="https://www.powells.com/book/biological-science-9780134678320" target="_blank">used copies</a> of the textbook. 
 
