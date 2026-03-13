@@ -43,6 +43,7 @@ An important goal of *[BI164 Evolution and Diversity](https://github.com/aphanot
 | Early Bird             |  3   | Most observations made between 5:00am and 8:00am             |
 | Night Owl                  |  3   | Most observations made between 10:00pm and 12:00pm           |
 | Welcoming Committee        |  5   | Most [introduced species](https://en.wikipedia.org/wiki/Introduced_species) observed |
+| Leading Edge Award | 5 | Northeastern-most observation of a [soapberry bug](https://bugsinourbackyard.org/bug-story/) (genus *[Jadera](https://www.inaturalist.org/taxa/127670-Jadera)*) |
 | Super Duper Cuteness Award |  3   | Cutest organism                                              |
 | Red in Tooth & Claw        |  3   | Most dangerous organism (Please, don't *do* anything dangerous!) |
 | Best Section | 3 | Awarded to all participants in the lecture section with the most different species! |
