@@ -643,7 +643,7 @@ Practice problem answers are at the back of the textbook. If you cannot complete
 
 #### Closely review the following tables/figures
 
-- Figure 3.8 (to understand the effect of genetic drift in sturctured sub-populations)
+- Figure 3.8 (to understand the effect of genetic drift in structured sub-populations)
 
 
 #### At the end of this reading you should be able to
