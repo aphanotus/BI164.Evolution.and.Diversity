@@ -15,6 +15,7 @@
 > [Chapter 23 (Part 1)](#Chapter-23-Part-1): The Hardy-Weinberg Model<br>
 > [Chapter 23 (Part 2)](#Chapter-23-Part-2): Evolutionary Processes<br>
 > [Chapter 23 (Part 3)](#Chapter-23-Part-3): More Evolutionary Processes<br>
+> [Saetre and Ravinet](#Saetre-and-Ravinet): Fixation indices<br>
 > [Chapter 22 (Part 2)](#Chapter-22-Part-2): Evolution by Natural Selection<br>
 > [Chapter 14](#Chapter-14): Quantitative Traits<br>
 > [Chapter 22 (Part 3)](#Chapter-22-Part-3): Misconceptions About Evolution<br>
@@ -618,6 +619,45 @@ Practice problem answers are at the back of the textbook. If you cannot complete
 - All of the **blue ✓** questions in sections 23.4 and 23.6
 - End of chapter questions: 3, 7
 
+
+
+### Saetre and Ravinet
+
+**Fixation Indices**
+
+#### Reading
+
+- Sections 3.2.4 (on *F*~IS~), 3.3.2 (metapopulations) and 3.3.3 (*F*~ST~)
+
+#### Define the following vocabulary terms
+
+<details closed>
+  <summary><b>terms</b></summary>
+  <ul>
+  <li>fixation index
+  <li><i>F</i><sub>IS</sub>
+  <li>metapopulation
+  <li><i>F</i><sub>ST</sub>
+  </ul>
+</details>
+
+#### Closely review the following tables/figures
+
+- Figure 3.8 (to understand the effect of genetic drift in sturctured sub-populations)
+
+
+#### At the end of this reading you should be able to
+
+- Understand why inbreeding will reduce the frequency of heterozygotes in a population.
+- Calculate and interpret the inbreeding coefficent, *F*~IS~, given information on actual allele frequencies and heterozygosity.
+- Understand how the structure of a metapopulation will lead over time to the fixation of alleles in local, subpopulations.
+- Calculate and interpret *F*~ST~, given information on allele frequencies in two populations.
+
+
+#### Relevant practice problems
+
+- Sections 3.2.4 (on *F*~IS~) and 3.3.3 (on *F*~ST~) essentially walk through case studies of these metrics. Be sure you understand how to do this.
+- End of chapter questions: 1, 3a, 3d, 4, 5, 7a, 7e.
 
 
 ### Chapter 23 (Part 3)
