@@ -627,7 +627,7 @@ Practice problem answers are at the back of the textbook. If you cannot complete
 
 #### Reading
 
-- Sections 3.2.4 (on *F*~IS~), 3.3.2 (metapopulations) and 3.3.3 (*F*~ST~)
+- Sections 3.2.4 (on *F*<sub>IS</sub>), 3.3.2 (metapopulations) and 3.3.3 (*F*<sub>ST</sub>)
 
 #### Define the following vocabulary terms
 
@@ -649,14 +649,14 @@ Practice problem answers are at the back of the textbook. If you cannot complete
 #### At the end of this reading you should be able to
 
 - Understand why inbreeding will reduce the frequency of heterozygotes in a population.
-- Calculate and interpret the inbreeding coefficent, *F*~IS~, given information on actual allele frequencies and heterozygosity.
+- Calculate and interpret the inbreeding coefficent, *F*<sub>IS</sub>, given information on actual allele frequencies and heterozygosity.
 - Understand how the structure of a metapopulation will lead over time to the fixation of alleles in local, subpopulations.
-- Calculate and interpret *F*~ST~, given information on allele frequencies in two populations.
+- Calculate and interpret *F*<sub>ST</sub>, given information on allele frequencies in two populations.
 
 
 #### Relevant practice problems
 
-- Sections 3.2.4 (on *F*~IS~) and 3.3.3 (on *F*~ST~) essentially walk through case studies of these metrics. Be sure you understand how to do this.
+- Sections 3.2.4 (on *F*<sub>IS</sub>) and 3.3.3 (on *F*<sub>ST</sub>) essentially walk through case studies of these metrics. Be sure you understand how to do this.
 - End of chapter questions: 1, 3a, 3d, 4, 5, 7a, 7e.
 
 
