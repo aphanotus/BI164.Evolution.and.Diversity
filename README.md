@@ -113,12 +113,12 @@ No individual extra credit assignments will be offered.
 ### Exams
 There will be three midterm exams during the semester, and one comprehensive (cumulative) final exam covering the whole semester. Midterm exams will be closed-book, closed-note, individual-effort exams given in our regular class time on the dates below.
 
-| exam       | date               |
-| :--------- | :----------------- |
-| Midterm 1  | Monday, March 2    |
-| Midterm 2  | Wednesday, April 8 |
-| Midterm 3  | Monday, May 4      |
-| Final Exam | TBA                |
+| exam       | date                                                         |
+| :--------- | :----------------------------------------------------------- |
+| Midterm 1  | Monday, March 2                                              |
+| Midterm 2  | Wednesday, April 8                                           |
+| Midterm 3  | Monday, May 4                                                |
+| Final Exam | Section A: Friday, May 15, 9:00 AM<br />Section B: Saturday, May 16, 9:00 AM |
 
 Students with **accommodations for extra time** will need to share their availability with me to arrange proctoring at the [Alternative Testing Center](https://life.colby.edu/get-support/access-disability-services/#:~:text=Using%20The-,Alternative,-Testing%20Center). This will typically be a time within 48 hours of the scheduled exam. Please be aware that the ATC is open for proctoring Mondays through Fridays from 8:15 AM to 5:00 PM.
 
@@ -173,55 +173,56 @@ If you experience symptoms of a contagious respiratory illness, such as [covid-1
 
 ### Course Schedule
 
-|  week  | date        | topic                                       | reading (Freeman)       |
-| :----: | ----------- | ------------------------------------------- | ----------------------- |
-|   1    | February 4  | Introductions                               | 1.3,6                   |
-|        | February 6  | Overview of Evolutionary Biology            | 1.4-5; 22.1             |
-|        |             | Review of Mitosis                           | 12.0-2,4                |
-|   2    | February 9  | Alternation of Generations                  | 27.3                    |
-|        |             | Life cycles in diverse eukaryotes           | 27.3; 28.3; 29.3, 30.3  |
-|        | February 11 | Meiosis                                     | 13.0-2                  |
-|        |             | Nondisjunction                              | 13.3                    |
-|        | February 13 | Transmission genetics                       | 14.0-2                  |
-|   3    | February 16 | Allelic segregation                         | 14.4                    |
-|        | February 18 | Independent assortment                      | 14.3-4                  |
-|        | February 20 | Alleles and their interactions              | 14.5                    |
-|   4    | February 23 | The nature of allelic dominance             | 14.5-6                  |
-|        | February 25 | Allele interactions with sex                | 14.5-6                  |
-|        | February 27 | *time to catch up*                          |                         |
-|   5    | March 2     | **Midterm Exam 1**                          |                         |
-|        | March 4     | The Hardy-Weinberg Model                    | 23.0-1                  |
-|        | March 6     | Calculating genotype and allele frequencies | 23.1                    |
-|   6    | March 9     | Evolutionary Processes                      | 23.1                    |
-|        |             | Mutation                                    | 23.6                    |
-|        |             | Genetic drift                               | 23.4                    |
-|        | March 11    | Non-random mating                           | 23.2                    |
-|        | March 13    | Gene flow                                   | 23.5                    |
-|   7    | March 16    | Wright's fixation index (Fst)               | Saetre & Ravinet (2019) |
-|        | March 18    | Artificial selection                        | 22.3                    |
-|        | March 20    | Natural selection                           | 23.3                    |
-|   8    | March 30    | Quantitative traits                         | 14.5                    |
-|        | April 1     | Misconceptions about evolution              | 22.5                    |
-|        | April 3     | Sexual selection                            | 23.3                    |
-|   9    | April 6     | Tree thinking                               | 27.4                    |
-|        | April 8     | **Midterm Exam 2**                          |                         |
-|        | April 10    | Homology; Convergence                       | 22.2                    |
-|   10   | April 13    | Biogeography & Deep Time                    | 22.2                    |
-|        | April 15    | Species concepts                            | 24.0-1                  |
-|        | April 17    | Allopatric speciation                       | 24.2                    |
-|        |             | Sympatric speciation                        | 24.3                    |
-|   11   | April 20    | Secondary contact                           | 24.4                    |
-|        |             | Case studies in speciation                  |                         |
-|        | April 22    | Phylogenetics                               | 25.0-1                  |
-|        |             | Adaptive radiations                         | 25.3                    |
-|        |             | Intro to Animals                            | 30.1-2                  |
-|        | April 24    | The Cambrian Explosion                      | 25.3                    |
-|        |             | Animal development                          | 25.3; 21.2; 31.0-3      |
-|   12   | April 27    | Amniotes, Synapsids & Dinosaurs             |                         |
-|        |             | Mass extinctions                            | 25.4                    |
-|        | April 29    | Biodiversity indices                        | 52.2                    |
-|   13   | May 4       | **Midterm Exam 3**                          |                         |
-|        | May 6       | Community ecology                           | 52.1                    |
-|        | May 8       | Global patterns of biodiversity             | 52.4                    |
-| Finals | TBD         | **Cumulative final exam**                   |                         |
+|  week  | date                       | topic                                                 | reading (Freeman)       |
+| :----: | -------------------------- | ----------------------------------------------------- | ----------------------- |
+|   1    | February 4                 | Introductions                                         | 1.3,6                   |
+|        | February 6                 | Overview of Evolutionary Biology                      | 1.4-5; 22.1             |
+|        |                            | Review of Mitosis                                     | 12.0-2,4                |
+|   2    | February 9                 | Alternation of Generations                            | 27.3                    |
+|        |                            | Life cycles in diverse eukaryotes                     | 27.3; 28.3; 29.3, 30.3  |
+|        | February 11                | Meiosis                                               | 13.0-2                  |
+|        |                            | Nondisjunction                                        | 13.3                    |
+|        | February 13                | Transmission genetics                                 | 14.0-2                  |
+|   3    | February 16                | Allelic segregation                                   | 14.4                    |
+|        | February 18                | Independent assortment                                | 14.3-4                  |
+|        | February 20                | Alleles and their interactions                        | 14.5                    |
+|   4    | February 23                | The nature of allelic dominance                       | 14.5-6                  |
+|        | February 25                | Allele interactions with sex                          | 14.5-6                  |
+|        | February 27                | *time to catch up*                                    |                         |
+|   5    | March 2                    | **Midterm Exam 1**                                    |                         |
+|        | March 4                    | The Hardy-Weinberg Model                              | 23.0-1                  |
+|        | March 6                    | Calculating genotype and allele frequencies           | 23.1                    |
+|   6    | March 9                    | Evolutionary Processes                                | 23.1                    |
+|        |                            | Mutation                                              | 23.6                    |
+|        |                            | Genetic drift                                         | 23.4                    |
+|        | March 11                   | Non-random mating                                     | 23.2                    |
+|        | March 13                   | Gene flow                                             | 23.5                    |
+|   7    | March 16                   | Wright's fixation index (Fst)                         | Saetre & Ravinet (2019) |
+|        | March 18                   | Artificial selection                                  | 22.3                    |
+|        | March 20                   | Natural selection                                     | 23.3                    |
+|   8    | March 30                   | Quantitative traits                                   | 14.5                    |
+|        | April 1                    | Misconceptions about evolution                        | 22.5                    |
+|        | April 3                    | Sexual selection                                      | 23.3                    |
+|   9    | April 6                    | Tree thinking                                         | 27.4                    |
+|        | April 8                    | **Midterm Exam 2**                                    |                         |
+|        | April 10                   | Homology; Convergence                                 | 22.2                    |
+|   10   | April 13                   | Biogeography & Deep Time                              | 22.2                    |
+|        | April 15                   | Species concepts                                      | 24.0-1                  |
+|        | April 17                   | Allopatric speciation                                 | 24.2                    |
+|        |                            | Sympatric speciation                                  | 24.3                    |
+|   11   | April 20                   | Secondary contact                                     | 24.4                    |
+|        |                            | Case studies in speciation                            |                         |
+|        | April 22                   | Phylogenetics                                         | 25.0-1                  |
+|        |                            | Adaptive radiations                                   | 25.3                    |
+|        |                            | Intro to Animals                                      | 30.1-2                  |
+|        | April 24                   | The Cambrian Explosion                                | 25.3                    |
+|        |                            | Animal development                                    | 25.3; 21.2; 31.0-3      |
+|   12   | April 27                   | Amniotes, Synapsids & Dinosaurs                       |                         |
+|        |                            | Mass extinctions                                      | 25.4                    |
+|        | April 29                   | Biodiversity indices                                  | 52.2                    |
+|   13   | May 4                      | **Midterm Exam 3**                                    |                         |
+|        | May 6                      | Community ecology                                     | 52.1                    |
+|        | May 8                      | Global patterns of biodiversity                       | 52.4                    |
+| Finals | May 15 (A)<br />May 16 (B) | **Cumulative final exam** 9:00 - 11:50 AM in Olin 001 |                         |
 
+---
